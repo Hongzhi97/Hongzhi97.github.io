@@ -22,7 +22,7 @@ Education
   * Honours project entitled "Quality improvements for aquaculture industry: A consultation project"
 * Malaysian Matriculation in Pure Sciences (100%), Kolej Matrikulasi Kedah, 2012
   * Mathematics A* Physics A* Chemistry A* Biology A*
-* Malaysian Certificate of Education in Pure Sciences (7A* 2A 100%), SMK Pendang, 2010
+* Malaysian Certificate of Education in Pure Sciences (7A* 2A: 100%), SMK Pendang, 2010
   * A* for Mathematics, Additional Mathematics, Physics, Chemistry, English, Malay, Islamic study
   * A for Biology, History
 
@@ -70,16 +70,6 @@ Research Collaborations
 * Consultation services to over 30 academicians comprising of professors, associate professors and senior lecturers from University of Malaya (UM), University of Putra Malaysia (UPM), National University of Malaysia (UKM), University of Technology Malaysia (UTM), Monash University Malaysia and Northern University of Malaysia (UUM) on research and data analysis.
 * Research and data analysis consultation services to over 15 postgraduate students from King’s College London, UTM, UPM and UUM.
 * Involved in 12 different quantitative and qualitative projects of AAIBE, NRGS, FRGS, RAGS, university grant scheme and external research tender as a research assistant at UM, UPM, UKM and UUM.
-
-Teaching and Tutoring
-======
-* Monash University Malaysia, School of Business: Systematic Literature Review, Meta-Analysis and Hierarchical Linear Model (Knowledge sharing session with academicians and researchers) (2019).
-* UPM, Faculty of Forestry: Demonstration class for AMOS (Research Methodology course) (2019).
-* UPM, Faculty of Engineering: Demonstration class for SPSS (Research Methodology course) (2019).
-* UUM, School of Quantitative Sciences: Demonstration class for R (Multivariate Analysis course) (2018).
-* UUM, School of Quantitative Sciences: Lecture class (Regression Modeling course) (2018).
-* UUM - Paid tuition classes for Statistics (Elementary Statistics; Statistics for Social Sciences) courses (2017-2018).
-* UUM - Free tuition classes for Statistics (Data Exploratory and Generalization; Probability and Statistics; Inferential Statistics; Regression Modelling; Sampling Techniques; Design and Analysis of Experiment; Statistical Quality Improvement; Multivariate Analysis; Forecasting Methods) and Mathematics (Calculus 1; Calculus 2; Ordinary Differential Equation; Discrete Mathematics; Linear Algebra) courses (2012-2016).
 
 Leadership
 ======
