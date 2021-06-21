@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I work best in the morning, jog in the evening and watch movies at night. My previous webpage is here [My first attempt to market myself =)](https://sites.google.com/view/hakiimj/).
+Hi there! I work best in the morning, jog in the evening and watch movies at night. My previous webpage is [here](https://sites.google.com/view/hakiimj/).
 
 About me
 ======
