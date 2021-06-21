@@ -17,12 +17,12 @@ Education
 * M.S. in Statistics, Universiti Utara Malaysia, 2019
   * In UUM Big Data Analytics laboratory (CeTMA) led by Associate Professor Nor Idayu Mahat
   * Area: Classical discriminant analysis for class imbalance and high dimensionality
-* B.S. in Industrial Statistics (1st class: 96.75%), Universiti Utara Malaysia, 2016
+* B.S. in Industrial Statistics (1st class : 96.75%), Universiti Utara Malaysia, 2016
   * Research internship project entitled "Text analytics for social markets: Utilising Facebook data"
   * Honours project entitled "Quality improvements for aquaculture industry: A consultation project"
-* Malaysian Matriculation in Pure Sciences (100%), Kolej Matrikulasi Kedah, 2012
-  * Mathematics A* Physics A* Chemistry A* Biology A*
-* Malaysian Certificate of Education in Pure Sciences (7A* 2A: 100%), SMK Pendang, 2010
+* Malaysian Matriculation in Pure Sciences (4A* : 100%), Kolej Matrikulasi Kedah, 2012
+  * A* for Mathematics, Physics, Chemistry, Biology
+* Malaysian Certificate of Education in Pure Sciences (7A* 2A : 100%), SMK Pendang, 2010
   * A* for Mathematics, Additional Mathematics, Physics, Chemistry, English, Malay, Islamic study
   * A for Biology, History
 
