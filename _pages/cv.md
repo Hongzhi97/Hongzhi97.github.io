@@ -34,7 +34,7 @@ Awards and Recognition
   * B.S. in Industrial Statistics Scholarship (2012) from Universiti Utara Malaysia (4-year funding)
   * B.S. in Industrial Statistics Scholarship (2012) from the government of Malaysia (4-year funding)
 
-* Awards
+* Award
   * Chancellor Gold Medal (2016) from Universiti Utara Malaysia (ranked 1st throughout the university in 2016)
   * Vice Chancellor Gold Medal (2016) from Universiti Utara Malaysia (ranked 1st throughout the 1st degree program in 2016)
   * 1st Place for Research Internship Project 2016 from School of Quantitative Sciences (ranked 1st for internship project in 2016)
