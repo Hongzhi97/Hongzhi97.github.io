@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hakiim Jamaluddin"
   avatar           : "DBD2225A-ABA1-4B85-8D0F-90BAECAA2B03.jpeg"
-  bio              : "PhD (Mathematics) student in uDASH & TransAI at UNSW Sydney, Australia; Young academic at UPM, Malaysia."
+  bio              : "School of Mathematics and Statistics, Faculty of Science, UNSW Sydney & Universiti Putra Malaysia"
   location         : "Malaysia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
