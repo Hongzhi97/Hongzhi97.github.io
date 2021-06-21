@@ -21,9 +21,10 @@ Education
   * Research internship project entitled "Text analytics for social markets: Utilising Facebook data"
   * Honours project entitled "Quality improvements for aquaculture industry: A consultation project"
 * Malaysian Matriculation in Pure Sciences (100%), Kolej Matrikulasi Kedah, 2012
-  * Mathematics A*, Physics A*, Chemistry A* & Biology A*
+  * Mathematics A* Physics A* Chemistry A* Biology A*
 * Malaysian Certificate of Education in Pure Sciences (7A* 2A 100%), SMK Pendang, 2010
-  * Mathematics (A*), Additional Mathematics (A*), Physics (A*), Chemistry (A*), English (A*), Malay (A*), Islamic study (A*), Biology (A), History (A)
+  * A* for Mathematics, Additional Mathematics, Physics, Chemistry, English, Malay, Islamic study
+  * A for Biology, History
 
 Awards and Recognition
 ======
