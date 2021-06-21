@@ -11,30 +11,81 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, UNSW Sydney (ongoing)
+  * In UNSW Data Science Hub (uDASH) led by Professor Scott Sisson and Transitional Artificial Intelligence laboratory (TransAI) led by Dr. Rohitash Chandra
+  * Area: Bayesian deep learning
+* M.S. in Statistics, Universiti Utara Malaysia, 2019
+  * In UUM Big Data Analytics laboratory (CeTMA) led by Associate Professor Nor Idayu Mahat
+  * Area: Classical discriminant analysis for class imbalance and high dimensionality
+* B.S. in Industrial Statistics (1st class: 96.75%), Universiti Utara Malaysia, 2016
+  * Research internship project entitled "Text analytics for social markets: Utilising Facebook data"
+  * Honours project entitled "Quality improvements for aquaculture industry: A consultation project"
+* Malaysian Matriculation in Pure Sciences (100%), Kolej Matrikulasi Kedah, 2012
+  * Mathematics A*, Physics A*, Chemistry A* & Biology A*
+* Malaysian Certificate of Education in Pure Sciences (7A* 2A 100%), SMK Pendang, 2010
+  * Mathematics (A*), Additional Mathematics (A*), Physics (A*), Chemistry (A*), English (A*), Malay (A*), Islamic study (A*), Biology (A), History (A)
 
-Work experience
+Awards and Recognition
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Scholarship
+  * Statistical Data Science Winter School Scholarship (2021) from the Australian Mathematical Sciences Institute (AMSI) (2-week funding)
+  * Ph.D (Mathematics) Scholarship (2021) from the government of Malaysia and Universiti Putra Malaysia (3-year funding)
+  * B.S. in Industrial Statistics Scholarship (2012) from Universiti Utara Malaysia (4-year funding)
+  * B.S. in Industrial Statistics Scholarship (2012) from the government of Malaysia (4-year funding)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Awards
+  * Chancellor Gold Medal (2016) from Universiti Utara Malaysia (ranked 1st throughout the university in 2016)
+  * Vice Chancellor Gold Medal (2016) from Universiti Utara Malaysia (ranked 1st throughout the 1st degree program in 2016)
+  * 1st Place for Research Internship Project 2016 from School of Quantitative Sciences (ranked 1st for internship project in 2016)
+  * 1st Place for Honours Project 2015 from School of Quantitative Sciences (ranked 1st for honours project in 2015)
+  * Excellent Service Award 2014 from College of Arts and Sciences
+  * TM Academic Award 2013 & 2014 from College of TM
+  * Kedah SPM Excellence 2010 from state government
+
+Work Experience
+======
+* 2020: Young academic scheme (Statistics & Data Science)
+  * Department of Mathematics and Statistics, Faculty of Science, Universiti Putra Malaysia
+
+* 2019: Associate Fellow
+  * Centre for Testing, Measurement and Appraisal (CeTMA), UUM
+  * Duties included: Provided statistical consultations.
+
+* 2018: Technical Accounting Officer
+  * RHB Bank
+  * Duties included: In charge of User Acceptance Testing while supporting Production environment for the project; In charge of development and refinement of predictive models (Exposure at Default, Probability of Default, Loss Given Default) for Expected Credit Loss computations; Financial Analysis for Retail portfolio for queries from stakeholders of Expected Credit Loss.
+  * Achievements: Developed Cambodia PD predictive model for implementation in November 2018; Introduced the use of R programming at Group Impairment Reporting, RHB Bank.
+
+* 2017: Graduate Research Assistant
+  * Universiti Utara Malaysia
+  * Projects involved: Quality improvement, text mining and class imbalance for internal and external entities.
+
+* 2016: Equipment Integration Engineer
+  * Osram Opto-semiconductor (M)
+  * Duties included: Integrate and automate the extraction of process data from equipment to host.
   
-Skills
+Research Collaborations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Consultation services to over 30 academicians comprising of professors, associate professors and senior lecturers from University of Malaya (UM), University of Putra Malaysia (UPM), National University of Malaysia (UKM), University of Technology Malaysia (UTM), Monash University Malaysia and Northern University of Malaysia (UUM) on research and data analysis.
+* Research and data analysis consultation services to over 15 postgraduate students from King’s College London, UTM, UPM and UUM.
+* Involved in 12 different quantitative and qualitative projects of AAIBE, NRGS, FRGS, RAGS, university grant scheme and external research tender as a research assistant at UM, UPM, UKM and UUM.
+
+Teaching and Tutoring
+======
+* Monash University Malaysia, School of Business: Systematic Literature Review, Meta-Analysis and Hierarchical Linear Model (Knowledge sharing session with academicians and researchers) (2019).
+* UPM, Faculty of Forestry: Demonstration class for AMOS (Research Methodology course) (2019).
+* UPM, Faculty of Engineering: Demonstration class for SPSS (Research Methodology course) (2019).
+* UUM, School of Quantitative Sciences: Demonstration class for R (Multivariate Analysis course) (2018).
+* UUM, School of Quantitative Sciences: Lecture class (Regression Modeling course) (2018).
+* UUM - Paid tuition classes for Statistics (Elementary Statistics; Statistics for Social Sciences) courses (2017-2018).
+* UUM - Free tuition classes for Statistics (Data Exploratory and Generalization; Probability and Statistics; Inferential Statistics; Regression Modelling; Sampling Techniques; Design and Analysis of Experiment; Statistical Quality Improvement; Multivariate Analysis; Forecasting Methods) and Mathematics (Calculus 1; Calculus 2; Ordinary Differential Equation; Discrete Mathematics; Linear Algebra) courses (2012-2016).
+
+Leadership
+======
+* UUM Student’s Representative Council (2014).
+* President, Quantitative Sciences Association (2013).
+* President, SMK Pendang Mathematics Society (2010)
+* President, SMK Pendang School Teenage Cadet (2010)
 
 Publications
 ======
@@ -48,12 +99,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching and Tutoring
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
