@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020-France
 venue: "Perpignan"
-date: 2018-03-20
+date: 2020-10-14
 location: "Perpignan, France"
 ---
 
