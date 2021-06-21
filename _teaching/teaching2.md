@@ -2,7 +2,7 @@
 title: "Workshop on Interactive Hands-On Systematic Review"
 collection: talks
 type: "Workshop"
-permalink: /talks/2020-11-09-UTM
+permalink: /talks/teaching2
 venue: "Institute of Human Centered Engineering (iHumEn), Faculty of Engineering, Universiti Teknologi Malaysia"
 date: 2020-11-09
 location: "Skudai, Malaysia"
