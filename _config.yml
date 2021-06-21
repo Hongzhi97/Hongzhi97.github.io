@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hakiim J."
+  name             : "Hakiim Jamaluddin"
   avatar           : "DBD2225A-ABA1-4B85-8D0F-90BAECAA2B03.jpeg"
   bio              : "PhD (Mathematics) student in uDASH & TransAI at UNSW Sydney, Australia; Young academic at UPM, Malaysia."
   location         : "Malaysia"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
