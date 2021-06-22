@@ -8,6 +8,6 @@ date: 2020-11-09
 location: "Skudai, Malaysia"
 ---
 
-An introductory workshop on systematic review, meta-analysis as well as some other statistical analyses including structural equation modelling.
+Introductory workshop on systematic review, meta-analysis as well as some other statistical analyses including structural equation modelling.
 
 [More information here](https://ihumen.utm.my/interactive-hands-on-systematic-review/)
