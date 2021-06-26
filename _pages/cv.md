@@ -29,10 +29,10 @@ Education
 Awards and Recognition
 ======
 * Scholarship
-  * Statistical Data Science Winter School Scholarship (2021) from the Australian Mathematical Sciences Institute (AMSI) (2-week funding)
   * Ph.D (Mathematics) Scholarship (2021) from the government of Malaysia and Universiti Putra Malaysia (3-year funding)
-  * B.S. in Industrial Statistics Scholarship (2012) from Universiti Utara Malaysia (4-year funding)
-  * B.S. in Industrial Statistics Scholarship (2012) from the government of Malaysia (4-year funding)
+  * Statistical Data Science Winter School Scholarship (2021) from the Australian Mathematical Sciences Institute (AMSI) (2-week funding)
+  * Scholarship to the 9th International Conference on Research and Education in Mathematics (ICREM9) (2021), Malaysia (1-week funding)
+  * B.S. in Industrial Statistics Scholarship (2012) from Universiti Utara Malaysia and the government of Malaysia (4-year funding)
 
 * Award
   * Chancellor Gold Medal (2016) from Universiti Utara Malaysia (ranked 1st throughout the university in 2016)
