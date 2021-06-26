@@ -29,9 +29,9 @@ Education
 Awards and Recognition
 ======
 * Scholarship
+  * Scholarship to the Statistical Data Science Winter School (2021) from the Australian Mathematical Sciences Institute (AMSI) (2-week funding)
+  * Scholarship to the Satellite Conference On Artificial Intelligence & Data-Driven Innovations (AIDDI2021)(2021) (2-day funding)
   * Ph.D (Mathematics) Scholarship (2021) from the government of Malaysia and Universiti Putra Malaysia (3-year funding)
-  * Statistical Data Science Winter School Scholarship (2021) from the Australian Mathematical Sciences Institute (AMSI) (2-week funding)
-  * Scholarship to the 9th International Conference on Research and Education in Mathematics (ICREM9) (2021), Malaysia (1-week funding)
   * B.S. in Industrial Statistics Scholarship (2012) from Universiti Utara Malaysia and the government of Malaysia (4-year funding)
 
 * Award
