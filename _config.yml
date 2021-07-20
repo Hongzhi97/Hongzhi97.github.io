@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hakiim Jamaluddin"
   avatar           : "DBD2225A-ABA1-4B85-8D0F-90BAECAA2B03.jpeg"
-  bio              : "Statistics, data science and machine learning at School of Mathematics and Statistics, UNSW Sydney & UPM Serdang"
+  bio              : "Bayesian machine learning at School of Mathematics and Statistics, UNSW Sydney"
   location         : "Malaysia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hakiim-j/"
-  orcid            : "https://orcid.org/0000-0002-1715-6912"
+  orcid            : #"https://orcid.org/0000-0002-1715-6912"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
