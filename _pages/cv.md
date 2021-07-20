@@ -78,12 +78,6 @@ Leadership
 * President, SMK Pendang Mathematics Society (2010)
 * President, SMK Pendang School Teenage Cadet (2010)
 
-# Publications
-# ======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
