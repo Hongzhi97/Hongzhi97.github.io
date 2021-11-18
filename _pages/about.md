@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hakiim Jamaluddin is a full time Ph.D (Mathematics) student at UNSW Sydney, Australia and a young academic (Statistics and Data Science) at Universiti Putra Malaysia, Malaysia. He is currently in UNSW Data Science Hub ([uDASH](https://www.science.unsw.edu.au/engagement/data-science-hub)) led by Professor [Scott Sisson](https://web.maths.unsw.edu.au/~scott/Welcome.html) and Transitional Artificial Intelligence Laboratory ([TransAI](https://trans-ai.github.io)) led by Dr. [Rohitash Chandra](https://rohitash-chandra.github.io).
+Hakiim Jamaluddin is a full time Ph.D (Mathematics) student at UNSW Sydney, Australia and a young academic (Statistics and Data Science) at Universiti Putra Malaysia, Malaysia. He is currently in Statistical Computing lab and UNSW Data Science Hub ([uDASH](https://www.science.unsw.edu.au/engagement/data-science-hub)) advised by Professor [Scott Sisson](https://web.maths.unsw.edu.au/~scott/Welcome.html) and Dr. [Boris Beranger](https://www.borisberanger.com).
 
-Hakiim is a minimalist, evening-jogger, coffee-man, table-tennis player, nature-lover.
+Hakiim is a minimalist, evening-jogger, mocha-man, table-tennis player, nature-lover.
