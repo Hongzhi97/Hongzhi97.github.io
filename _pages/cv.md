@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, UNSW Sydney (ongoing)
-  * In UNSW Data Science Hub (uDASH) led by Professor Scott Sisson and Transitional Artificial Intelligence laboratory (TransAI) led by Dr. Rohitash Chandra
-  * Area: Bayesian deep learning
+  * In Statistical Computing lab and UNSW Data Science Hub advised by Professor Scott Sisson and Dr. Boris Beranger
+  * Area: Symbolic data analysis and Bayesian inference
 * M.S. in Statistics, Universiti Utara Malaysia, 2019
   * In UUM Big Data Analytics laboratory (CeTMA) led by Associate Professor Nor Idayu Mahat
   * Area: Classical discriminant analysis for class imbalance and high dimensionality
