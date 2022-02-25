@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, UNSW Sydney (ongoing)
+* Ph.D in Statistics, UNSW Sydney (ongoing)
   * In Statistical Computing lab and UNSW Data Science Hub advised by Professor Scott Sisson and Dr. Boris Beranger
   * Area: Symbolic data analysis and Bayesian inference
 * M.S. in Statistics, Universiti Utara Malaysia, 2019
@@ -45,7 +45,10 @@ Awards and Recognition
 
 Work Experience
 ======
-* 2020: Young academic scheme (Statistics & Data Science)
+* 2022: Sessional Teaching Academic (Statistics)
+  * School of Mathematical and Physical Sciences, Macquarie University
+
+* 2020: Young Academic Scheme (Statistics & Data Science)
   * Department of Mathematics and Statistics, Faculty of Science, Universiti Putra Malaysia
 
 * 2019: Associate Fellow
