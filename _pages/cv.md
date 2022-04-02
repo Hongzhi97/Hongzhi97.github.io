@@ -45,6 +45,12 @@ Awards and Recognition
 
 Work Experience
 ======
+* 2022: Statistical Assistant
+  * Mark Wainwright Analytical Centre, UNSW Sydney
+
+* 2022: Professional Staff
+  * School of Education, UNSW Sydney
+
 * 2022: Sessional Teaching Academic (Statistics)
   * School of Mathematical and Physical Sciences, Macquarie University
 
