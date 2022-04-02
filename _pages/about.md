@@ -13,6 +13,6 @@ Hakiim Jamaluddin is a full time Ph.D (Statistics) student at UNSW Sydney, Austr
 Hakiim is a minimalist, evening-jogger, mocha-man, table-tennis player, nature-lover.
 
 Some updates:
-- March 2023    : A statistical assistant at Mark Wainwright Analytical Centre, UNSW Sydney.
-- February 2022 : A sessional teaching academic at the School of Mathematical and Physical Sciences, Macquarie University.
-- February 2022 : A professional staff at the School of Education, UNSW Sydney.
+- A statistical assistant at Mark Wainwright Analytical Centre, UNSW Sydney since March 2022.
+- A sessional teaching academic at the School of Mathematical and Physical Sciences, Macquarie University since February 2022.
+- A professional staff at the School of Education, UNSW Sydney since February 2022.
