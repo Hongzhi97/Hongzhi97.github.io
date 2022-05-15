@@ -45,7 +45,7 @@ Awards and Recognition
 
 Work Experience
 ======
-* 2022: Statistical Assistant
+* 2022: Consultant Intern and Statistical Assistant
   * Mark Wainwright Analytical Centre, UNSW Sydney
 
 * 2022: Professional Staff
