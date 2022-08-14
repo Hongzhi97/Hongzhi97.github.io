@@ -3,7 +3,7 @@ title: "Optimal designs for symbolic data."
 collection: talks
 type: "Talk"
 permalink: /talks/2022-PGC
-venue: "UNSW Sydnet"
+venue: "UNSW Sydney"
 date: 2022-08-10
 location: "Syndey, Australia"
 ---
