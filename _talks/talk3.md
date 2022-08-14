@@ -10,5 +10,3 @@ location: "Syndey, Australia"
 
 2022 MathStats Postgraduate Conference.
 ![Photo](https://github.com/HakiimJ/hakiimj.github.io/blob/master/images/IMG_3075.JPG)
-
-< img src="images/IMG_3075.JPG" class="img-responsive" alt=""><\div>
