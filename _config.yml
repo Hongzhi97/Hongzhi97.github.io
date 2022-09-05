@@ -103,7 +103,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hakiim-j/"
-  orcid            : #"https://orcid.org/0000-0002-1715-6912"
+  orcid            : "https://orcid.org/0000-0002-1715-6912"
+  clarivate        : "https://www.webofscience.com/wos/author/record/AAT-4706-2020"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
