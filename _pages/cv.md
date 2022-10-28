@@ -45,13 +45,16 @@ Awards and Recognition
 
 Work Experience
 ======
+* 2022: Casual Academic (Statistics)
+  * School of Mathematics and Statistics, UNSW Sydney
+
 * 2022: Consultant Intern and Statistical Assistant
   * Mark Wainwright Analytical Centre, UNSW Sydney
 
-* 2022: Professional Staff
+* 2022: Professional Staff (Data Analysis)
   * School of Education, UNSW Sydney
 
-* 2022: Sessional Teaching Academic (Statistics)
+* 2022: Casual Academic (Statistics)
   * School of Mathematical and Physical Sciences, Macquarie University
 
 * 2020: Young Academic Scheme (Statistics & Data Science)
