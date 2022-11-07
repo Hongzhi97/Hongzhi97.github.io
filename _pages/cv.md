@@ -31,12 +31,9 @@ Work Experience
 
 * 2018: Technical Accounting Officer
   * RHB Bank
-#  * Duties included: In charge of User Acceptance Testing while supporting Production environment for the project; In charge of development and refinement of predictive models (Exposure at Default, Probability of Default, Loss Given Default) for Expected Credit Loss computations; Financial Analysis for Retail portfolio for queries from stakeholders of Expected Credit Loss.
-#  * Achievements: Developed Cambodia PD predictive model for implementation in November 2018; Introduced the use of R programming at Group Impairment Reporting, RHB Bank.
 
 * 2017: MSc Graduate Research Assistant
   * Centre for Testing, Measurement and Appraisal (CeTMA), UUM
-#  * Projects involved: Quality improvement, text mining and class imbalance for internal and external entities.
 
 * 2016: Equipment Integration Engineer
   * Osram Opto-semiconductor (M)
