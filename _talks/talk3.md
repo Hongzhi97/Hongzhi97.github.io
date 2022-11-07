@@ -1,5 +1,5 @@
 ---
-title: "Bayesian inference via Stochastic Gradient MCMC."
+title: "Bayesian neural learning via Stochastic Gradient MCMC."
 collection: talks
 type: "Talk"
 permalink: /talks/2022-PGC
