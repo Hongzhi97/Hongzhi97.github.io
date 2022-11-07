@@ -9,6 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+* 2022: Consultant Intern and Statistical Assistant
+  * Mark Wainwright Analytical Centre, UNSW Sydney
+
+* 2022: Casual Academic (Statistics)
+  * School of Mathematics and Statistics, UNSW Sydney
+  * School of Mathematical and Physical Sciences, Macquarie University
+  * School of Medical Sciences, UNSW Sydney
+
+* 2022: Professional Staff (Data Analysis)
+  * School of Education, UNSW Sydney
+
+* 2020: Young Academic Scheme (Statistics & Data Science)
+  * Department of Mathematics and Statistics, Faculty of Science, Universiti Putra Malaysia
+
+* 2019: Associate Fellow
+  * Centre for Testing, Measurement and Appraisal (CeTMA), UUM
+#  * Duties included: Provided statistical consultations.
+
+* 2018: Technical Accounting Officer
+  * RHB Bank
+#  * Duties included: In charge of User Acceptance Testing while supporting Production environment for the project; In charge of development and refinement of predictive models (Exposure at Default, Probability of Default, Loss Given Default) for Expected Credit Loss computations; Financial Analysis for Retail portfolio for queries from stakeholders of Expected Credit Loss.
+#  * Achievements: Developed Cambodia PD predictive model for implementation in November 2018; Introduced the use of R programming at Group Impairment Reporting, RHB Bank.
+
+* 2017: MSc Graduate Research Assistant
+  * Centre for Testing, Measurement and Appraisal (CeTMA), UUM
+#  * Projects involved: Quality improvement, text mining and class imbalance for internal and external entities.
+
+* 2016: Equipment Integration Engineer
+  * Osram Opto-semiconductor (M)
+  * Duties included: Integrate and automate the extraction of process data from equipment to host.
+
 Education
 ======
 * Ph.D in Statistics, UNSW Sydney (ongoing)
@@ -42,40 +75,6 @@ Awards and Recognition
   * Excellent Service Award 2014 from College of Arts and Sciences
   * TM Academic Award 2013 & 2014 from College of TM
   * Kedah SPM Excellence 2010 from state government
-
-Work Experience
-======
-* 2022: Casual Academic (Statistics)
-  * School of Mathematics and Statistics, UNSW Sydney
-
-* 2022: Consultant Intern and Statistical Assistant
-  * Mark Wainwright Analytical Centre, UNSW Sydney
-
-* 2022: Professional Staff (Data Analysis)
-  * School of Education, UNSW Sydney
-
-* 2022: Casual Academic (Statistics)
-  * School of Mathematical and Physical Sciences, Macquarie University
-
-* 2020: Young Academic Scheme (Statistics & Data Science)
-  * Department of Mathematics and Statistics, Faculty of Science, Universiti Putra Malaysia
-
-* 2019: Associate Fellow
-  * Centre for Testing, Measurement and Appraisal (CeTMA), UUM
-  * Duties included: Provided statistical consultations.
-
-* 2018: Technical Accounting Officer
-  * RHB Bank
-  * Duties included: In charge of User Acceptance Testing while supporting Production environment for the project; In charge of development and refinement of predictive models (Exposure at Default, Probability of Default, Loss Given Default) for Expected Credit Loss computations; Financial Analysis for Retail portfolio for queries from stakeholders of Expected Credit Loss.
-  * Achievements: Developed Cambodia PD predictive model for implementation in November 2018; Introduced the use of R programming at Group Impairment Reporting, RHB Bank.
-
-* 2017: Graduate Research Assistant
-  * Universiti Utara Malaysia
-  * Projects involved: Quality improvement, text mining and class imbalance for internal and external entities.
-
-* 2016: Equipment Integration Engineer
-  * Osram Opto-semiconductor (M)
-  * Duties included: Integrate and automate the extraction of process data from equipment to host.
   
 Research Collaborations
 ======
