@@ -27,7 +27,6 @@ Work Experience
 
 * 2019: Associate Fellow
   * Centre for Testing, Measurement and Appraisal (CeTMA), UUM
-#  * Duties included: Provided statistical consultations.
 
 * 2018: Technical Accounting Officer
   * RHB Bank
