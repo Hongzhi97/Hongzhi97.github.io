@@ -11,16 +11,18 @@ redirect_from:
 
 Work Experience
 ======
+* 2022-present: Casual Academic (Statistics)
+  * School of Mathematics and Statistics, UNSW Sydney
+
+* 2022-present: Professional Staff (Data Analysis)
+  * School of Education, UNSW Sydney
+
 * 2022: Consultant Intern and Statistical Assistant
   * Mark Wainwright Analytical Centre, UNSW Sydney
 
 * 2022: Casual Academic (Statistics)
-  * School of Mathematics and Statistics, UNSW Sydney
   * School of Mathematical and Physical Sciences, Macquarie University
   * School of Medical Sciences, UNSW Sydney
-
-* 2022: Professional Staff (Data Analysis)
-  * School of Education, UNSW Sydney
 
 * 2020: Young Academic Scheme (Statistics & Data Science)
   * Department of Mathematics and Statistics, Faculty of Science, Universiti Putra Malaysia
@@ -40,24 +42,26 @@ Work Experience
 
 Education
 ======
-* Ph.D in Statistics, UNSW Sydney (ongoing)
+* Ph.D in Mathematics and Statistics, UNSW Sydney (ongoing)
   * In Statistical Computing lab and UNSW Data Science Hub advised by Professor Scott Sisson and Dr. Boris Beranger
   * Area: Symbolic data analysis and Bayesian inference
 * M.S. in Statistics, Universiti Utara Malaysia, 2019
   * In UUM Big Data Analytics laboratory (CeTMA) led by Associate Professor Nor Idayu Mahat
   * Area: Classical discriminant analysis for class imbalance and high dimensionality
-* B.S. in Industrial Statistics (1st class : 96.75%), Universiti Utara Malaysia, 2016
-  * Research internship project entitled "Text analytics for social markets: Utilising Facebook data"
+* B.S. in Applied Statistics with Honours (1st class : 96.75%), Universiti Utara Malaysia, 2016
+  * Research internship project entitled "Text analytics for social markets: Utilising open data"
   * Honours project entitled "Quality improvements for aquaculture industry: A consultation project"
-* Malaysian Matriculation in Pure Sciences (4A* : 100%), Kolej Matrikulasi Kedah, 2012
+* Malaysian Matriculation in Pure Sciences (4A* : 100%), Malaysian matriculation college, 2012
   * A* for Mathematics, Physics, Chemistry, Biology
-* Malaysian Certificate of Education in Pure Sciences (7A* 2A : 100%), SMK Pendang, 2010
+* Malaysian Certificate of Education in Pure Sciences (7A* 2A : 100%), Malaysian secondary school, 2010
   * A* for Mathematics, Additional Mathematics, Physics, Chemistry, English, Malay, Islamic study
   * A for Biology, History
 
 Awards and Recognition
 ======
 * Scholarship
+  * Top-up scholarship, Graduate Research School, UNSW Sydney (2023)
+  * Top-up scholarship, School of Mathematics and Statistics, UNSW Sydney (2021)
   * Scholarship to the Statistical Data Science Winter School (2021) from the Australian Mathematical Sciences Institute (AMSI) (2-week funding)
   * Scholarship to the Satellite Conference On Artificial Intelligence & Data-Driven Innovations (AIDDI2021)(2021) (2-day funding)
   * Ph.D (Mathematics) Scholarship (2021) from the government of Malaysia and Universiti Putra Malaysia (3-year funding)
@@ -82,8 +86,8 @@ Leadership
 ======
 * UUM Student’s Representative Council (2014).
 * President, Quantitative Sciences Association (2013).
-* President, SMK Pendang Mathematics Society (2010)
-* President, SMK Pendang School Teenage Cadet (2010)
+* President, Mathematics Society (2010)
+* President, School Teenage Cadet (2010)
 
 Talks
 ======
