@@ -68,6 +68,8 @@ Awards and Recognition
   * B.S. in Industrial Statistics Scholarship (2012) from Universiti Utara Malaysia and the government of Malaysia (4-year funding)
 
 * Award
+  * The Best 1-Minute Thesis for School of Mathematics and Statistics during the UNSW Sydney Postgraduate Research Showcase (2023)
+  * The First Runner-up of uDASH-CHUBB Data Hackathon at CHUBB Insurance Australia (2023)
   * Chancellor Gold Medal (2016) from Universiti Utara Malaysia (ranked 1st throughout the university in 2016)
   * Vice Chancellor Gold Medal (2016) from Universiti Utara Malaysia (ranked 1st throughout the 1st degree program in 2016)
   * 1st Place for Research Internship Project 2016 from School of Quantitative Sciences (ranked 1st for internship project in 2016)
