@@ -13,7 +13,7 @@ Hakiim Jamaluddin is a full time Ph.D (Statistics) student at UNSW Sydney, Austr
 
 Additional keywords about Hakiim: evening-runner, mocha/flat-white, table-tennis.
 
-* News
-  * An organising committee member of UNSW Mathematics and Statistics Postgraduate Conference: [website](https://unswmathstatspgconf2023.github.io/) developer.
-  * The Best 1-Minute Thesis for the School of Mathematics and Statistics during the UNSW Sydney Postgraduate Research Showcase (2023)
-  * The First Runner-up of uDASH-CHUBB Data Hackathon at CHUBB Insurance Australia (2023)
+News
+* An organising committee member of the UNSW Mathematics and Statistics Postgraduate Conference 2023: [website](https://unswmathstatspgconf2023.github.io/) developer.
+* The Best 1-Minute Thesis for the School of Mathematics and Statistics during the UNSW Sydney Postgraduate Research Showcase (2023)
+* The First Runner-up of uDASH-CHUBB Data Hackathon at CHUBB Insurance Australia (2023)
