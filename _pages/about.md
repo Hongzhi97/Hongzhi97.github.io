@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Nothing takes place in the world whose meaning is not that of some maximum or minimum. ----Leonhard Euler"
 author_profile: true
 redirect_from: 
   - /about/
