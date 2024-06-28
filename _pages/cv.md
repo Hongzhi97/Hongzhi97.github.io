@@ -48,3 +48,10 @@ Community service and leadership
 
 * Volunteer Teacher at Dawuji Experimental Culture and Wushu School (primary school), Beijing, Oct 2015 - Jan 2016
   * Worked as a volunteer teacher once a week in this primary school for children of migrant workers in the first semester of BJUT
+
+Honour and Awards
+======
+* International House UNSW Research Collegian Prize, UNSW, Feb 2024
+* Dean’s International Science Excellence Scholarship, ANU, May 2017
+* Learning Excellence Award, university-level, BJUT, Dec 2017
+* Learning Excellence Award, university-level, BJUT, Dec 2016
