@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hongzhi3.jpeg"
+  avatar           : "hongzhi3.JPEG"
   name             : "Hongzhi Liao"
   pronouns         : # example: "she/her"  
   bio              : "Optimization group at School of Mathematics and Statistics, UNSW Sydney"
