@@ -22,7 +22,7 @@ Work experience
   * School of Mathematics and Statistics, UNSW Sydney
 
 * Casual Translator, Nov 2016 - Nov 2021
-  * Has done around 100,000 Chinese characters (around 62,500 English words) in Chinese-English translation, including experimental materials, financial reports, industrial product manuals, government websites, etc
+  * Has done around 100,000 Chinese characters (equivalent to 62,500 English words) in Chinese-English translation, including experimental materials, financial reports, industrial product manuals, government websites, etc
  
 Teaching
 ======
