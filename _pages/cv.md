@@ -20,17 +20,7 @@ Work experience
 ======
 * Casual Academic, May 2022-present
   * School of Mathematics and Statistics, UNSW Sydney
-  
-
-
-
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+ 
 Teaching
 ======
 * Demonstrator of course [MATH3191/5191](https://www.unsw.edu.au/science/our-schools/maths/student-life-resources/undergraduate/undergraduate-courses/math3191-mathematical-optimisation-for-data-science#heading-991840310): Mathematical Optimization for Data Science at UNSW, Sep 2022 - Dec 2022
