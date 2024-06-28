@@ -12,40 +12,18 @@ redirect_from:
 Education
 ======
 * Ph.D in Optimization, UNSW Sydney, 2025 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Mathematical Sciences with First Class Honours, ANU, 2020
+* Bachelor of Mathematical Sciences, ANU, 2019
+* Bachelor of Mathematics and Applied Mathematics, Beijing University of Technology (BJUT), 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Casual Academic, 2022-present
+  * School of Mathematics and Statistics, UNSW Sydney
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
   
 Talks
 ======
