@@ -1,9 +1,11 @@
 ---
 layout: archive
 % title: "Publications"
-permalink: /research/
+permalink: /publications/
 author_profile: true
 ---
+
+{% include base_path %}
 
 Preprints
 ======
