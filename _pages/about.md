@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, optimization lover!"
+title: "Hi, there"
 author_profile: true
 redirect_from: 
   - /about/
