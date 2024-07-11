@@ -26,9 +26,9 @@ author:
   avatar           : "hongzhi3.JPEG"
   name             : "Hongzhi Liao"
   pronouns         : # example: "she/her"  
-  bio              : "[School of Mathematics and Statistics, UNSW Sydne](https://www.unsw.edu.au/science/our-schools/maths)"
+  bio              : "School of Mathematics and Statistics, UNSW Sydne"
   location         : "Sydney, Australia"
-  employer         : "UNSW Sydney"
+  employer         : "[UNSW Sydney](https://www.unsw.edu.au/science/our-schools/maths)"
   uri              : # https://www.unsw.edu.au/science/our-schools/maths
   email            : "hongzhi.liao@unsw.edu.au" 
 
