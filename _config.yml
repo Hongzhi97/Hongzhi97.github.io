@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "School of Mathematics and Statistics, UNSW Sydne"
   location         : "Sydney, Australia"
-  employer         : "[UNSW Sydney](https://www.unsw.edu.au/science/our-schools/maths)"
-  uri              : # https://www.unsw.edu.au/science/our-schools/maths
+  employer         : "UNSW Sydney"
+  uri              : https://www.unsw.edu.au/science/our-schools/maths
   email            : "hongzhi.liao@unsw.edu.au" 
 
   # Academic websites
