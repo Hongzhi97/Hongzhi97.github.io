@@ -22,4 +22,4 @@ I am a full-time PhD student focused on optimization at [School of Mathematics a
   
 
 
-<q>Nothing takes place in the world whose meaning is not that of some maximum or minimum.&#8230;</q> &#8211;Leonhard Euler
+<q>Nothing takes place in the world whose meaning is not that of some maximum or minimum.</q> &#8211;Leonhard Euler
