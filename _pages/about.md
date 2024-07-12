@@ -20,6 +20,6 @@ I am a full-time PhD student focused on optimization at [School of Mathematics a
   * [ISMP 2024](https://ismp2024.gerad.ca/schedule/WB/906), 24 Jul 2024, Montreal, Canada
 
 $$ $$
-
+$$ $$
 ***
 _Nothing takes place in the world whose meaning is not that of some maximum or minimum._ --- Leonhard Euler
