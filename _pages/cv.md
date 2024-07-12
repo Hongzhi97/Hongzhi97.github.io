@@ -42,7 +42,7 @@ Community service, mentoring and leadership
 * Volunteer Teacher at Dawuji Experimental Culture and Wushu School (primary school), Beijing, Oct 2015 - Jan 2016
   * Worked as a volunteer teacher once a week in this primary school for children of migrant workers in the first semester of BJUT
 
-Honour and Awards
+Honours and Awards
 ======
 * 2024 HDR Development and Research Training Grant (DRTG), UNSW, Apr 2024
 * International House UNSW Research Collegian Prize, UNSW, Feb 2024
