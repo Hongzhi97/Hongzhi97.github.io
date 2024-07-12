@@ -28,10 +28,10 @@ Teaching
 ======
 * Demonstrator of course [MATH3191/5191](https://www.unsw.edu.au/science/our-schools/maths/student-life-resources/undergraduate/undergraduate-courses/math3191-mathematical-optimisation-for-data-science#heading-991840310): Mathematical Optimization for Data Science at UNSW, Sep 2022 - Dec 2022
   
-Community service and leadership
+Community service, mentoring and leadership
 ======
 * Postgraduate Conference Organizing Committee Member, Aug 2023
-  * Helped to organize the 10th annual UNSW Mathematics and Statistics Postgraduate Conference
+  * Helped to organize the 10th annual UNSW Mathematics and Statistics Postgraduate Conference, including setting the schedule, giving the prologue of the conference, chairing the talks and making voting links for the People's Choice award for best talk and poster
 
 * UNSW HDR Peer Support Program Mentor, Jul 2023 - Sep 2023
   * Provide connection, support, advice, answer questions and share tips on how to settle into an HDR candidature for a group of new HDR students (11 people), normally meet once a week with the mentees
@@ -44,6 +44,7 @@ Community service and leadership
 
 Honour and Awards
 ======
+* 2024 HDR Development and Research Training Grant (DRTG), UNSW, Apr 2024
 * International House UNSW Research Collegian Prize, UNSW, Feb 2024
 * Dean’s International Science Excellence Scholarship, ANU, May 2017
 * Learning Excellence Award, university-level, BJUT, Dec 2017
