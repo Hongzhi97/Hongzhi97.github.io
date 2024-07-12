@@ -19,4 +19,7 @@ I am a full-time PhD student focused on optimization at [School of Mathematics a
 * Douglas-Rachford is the best projection method
   * [ISMP 2024](https://ismp2024.gerad.ca/schedule/WB/906), 24 Jul 2024, Montreal, Canada
 
-"Nothing takes place in the world whose meaning is not that of some maximum or minimum." ---Leonhard Euler
+  
+
+
+<q>Nothing takes place in the world whose meaning is not that of some maximum or minimum.&#8230;</q> &#8211;Leonhard Euler
