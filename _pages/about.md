@@ -21,5 +21,5 @@ I am a full-time PhD student focused on optimization at [School of Mathematics a
 
 $$ $$
 $$ $$
-***
+
 _Nothing takes place in the world whose meaning is not that of some maximum or minimum._ --- Leonhard Euler
