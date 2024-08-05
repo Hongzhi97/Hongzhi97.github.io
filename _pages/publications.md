@@ -15,6 +15,9 @@ Preprints
 Talks
 ======
 * Douglas-Rachford is the best projection method
+  * [ISMP 2024](https://ismp2024.gerad.ca/schedule/WB/906), 24 Jul 2024, Montreal, Canada
+
+* Douglas-Rachford is the best projection method
   * [WOMBAT/WICO 2023](https://wombat.mocao.org/), 14 Dec 2023, Sydney, Australia
 
 * Douglas-Rachford is the best projection method
