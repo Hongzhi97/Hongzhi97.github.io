@@ -15,9 +15,8 @@ I am a full-time PhD student focused on optimization at [School of Mathematics a
 * Convex geometry
 * Polynomial optimization
 
-### Upcoming events and talk
-* Douglas-Rachford is the best projection method
-  * [ISMP 2024](https://ismp2024.gerad.ca/schedule/WB/906), 24 Jul 2024, Montreal, Canada
+% ### Upcoming events and talk
+
 
 $$ $$
 $$ $$
