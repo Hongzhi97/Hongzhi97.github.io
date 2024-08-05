@@ -15,7 +15,7 @@ I am a full-time PhD student focused on optimization at [School of Mathematics a
 * Convex geometry
 * Polynomial optimization
 
-$ ### Upcoming events and talk
+
 
 
 $$ $$
