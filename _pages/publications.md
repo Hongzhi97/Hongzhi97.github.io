@@ -9,11 +9,17 @@ author_profile: true
 
 Preprints
 ======
-* Douglas-Rachford is the best projection method
-  * with [Minh N. Dao](https://sites.google.com/site/daonminh/), [Mareike Dressler](https://web.maths.unsw.edu.au/~mdressler/index.html), and [Vera Roshchina](https://www.veraroshchina.com/); see [arXiv:2310.17077](https://arxiv.org/abs/2310.17077), submitted for publication.
+* Finite Convergence of Circumcentered-Reflection Method on Closed Polyhedral Cones in Euclidean Spaces
+  * see [arXiv:2412.00512](https://arxiv.org/abs/2412.00512).
+  
+* Douglas--Rachford is the best projection method in its family
+  * with [Minh N. Dao](https://sites.google.com/site/daonminh/), [Mareike Dressler](https://web.maths.unsw.edu.au/~mdressler/index.html), and [Vera Roshchina](https://www.veraroshchina.com/); see [arXiv:2310.17077](https://arxiv.org/abs/2310.17077), accepted.
 
 Talks
 ======
+* Finite Convergence of Circumcentered-Reflection Method on Closed Polyhedral Cones in Euclidean Spaces
+  * [WOMBAT 2024](https://wombat.mocao.org/), 4 Dec 2024, Sydney, Australia
+
 * Douglas-Rachford is the best projection method
   * [ISMP 2024](https://ismp2024.gerad.ca/schedule/WB/906), 24 Jul 2024, Montreal, Canada
 
