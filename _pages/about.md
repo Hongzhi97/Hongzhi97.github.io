@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time PhD student focused on optimization at [School of Mathematics and Statistics, UNSW Sydney](https://www.unsw.edu.au/science/our-schools/maths), supervised by Associate Professor [Vera Roshchina](https://www.veraroshchina.com/) and Dr. [Mareike Dressler](https://web.maths.unsw.edu.au/~mdressler/index.html).
+I am a PhD graduate focused on optimization at [School of Mathematics and Statistics, UNSW Sydney](https://www.unsw.edu.au/science/our-schools/maths), supervised by Associate Professor [Vera Roshchina](https://www.veraroshchina.com/) and Dr. [Mareike Dressler](https://web.maths.unsw.edu.au/~mdressler/index.html).
 
 ### Research Interests: 
 * Nonsmooth optimization
