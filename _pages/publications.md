@@ -16,7 +16,7 @@ Published Papers
 Preprints
 ======
 * Exposed extreme rays of the SONC cone
-  * with [Mareike Dressler](https://web.maths.unsw.edu.au/~mdressler/index.html) and [Vera Roshchina](https://www.veraroshchina.com/); see [arXiv:2512.00348](https://arxiv.org/abs/2512.00348)
+  * with [Mareike Dressler](https://web.maths.unsw.edu.au/~mdressler/index.html) and [Vera Roshchina](https://www.veraroshchina.com/); see [arXiv:2512.00348](https://arxiv.org/abs/2512.00348).
 
 * Finite Convergence of Circumcentered-Reflection Method on Closed Polyhedral Cones in Euclidean Spaces
   * see [arXiv:2412.00512](https://arxiv.org/abs/2412.00512).
