@@ -16,7 +16,7 @@ Education
 * Bachelor of Mathematical Sciences, ANU, Jun 2019
 * Bachelor of Mathematics and Applied Mathematics, Beijing University of Technology (BJUT), Jun 2019
 
-Work experience
+Working Experience
 ======
 * Casual Academic, May 2022-present
   * School of Mathematics and Statistics, UNSW Sydney
@@ -28,7 +28,7 @@ Teaching
 ======
 * Demonstrator of course [MATH3191/5191](https://www.unsw.edu.au/science/our-schools/maths/student-life-resources/undergraduate/undergraduate-courses/math3191-mathematical-optimisation-for-data-science#heading-991840310): Mathematical Optimization for Data Science at UNSW, Sep 2022 - Dec 2022
   
-Community service, mentoring and leadership
+Community service, Mentoring and Leadership
 ======
 * Postgraduate Conference Organizing Committee Member, Aug 2023
   * Helped to organize the 10th annual UNSW Mathematics and Statistics Postgraduate Conference, including setting the schedule, giving the prologue of the conference, chairing the talks and making voting links for the People's Choice award for best talk and poster
