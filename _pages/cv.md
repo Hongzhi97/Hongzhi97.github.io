@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Optimization, UNSW Sydney, Mar 2026
+* Doctor of Philosophy in Mathematics and Statistics, UNSW Sydney, Mar 2026
 * Bachelor of Mathematical Sciences with First Class Honours, ANU, Jun 2020
 * Bachelor of Mathematical Sciences, ANU, Jun 2019
 * Bachelor of Mathematics and Applied Mathematics, Beijing University of Technology (BJUT), Jun 2019
