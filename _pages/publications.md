@@ -10,7 +10,8 @@ author_profile: true
 Journal Articles
 ======
 * Douglas--Rachford is the best projection method in its family
-  * with [Minh N. Dao](https://sites.google.com/site/daonminh/), [Mareike Dressler](https://web.maths.unsw.edu.au/~mdressler/index.html), and [Vera Roshchina](https://www.veraroshchina.com/); [Optimization (2024), 1-23](https://www.tandfonline.com/doi/full/10.1080/02331934.2024.2444623).
+  * with [Minh N. Dao](https://sites.google.com/site/daonminh/), [Mareike Dressler](https://web.maths.unsw.edu.au/~mdressler/index.html), and [Vera Roshchina](https://www.veraroshchina.com/); [Optimization (2024), 1-23](https://www.tandfonline.com/doi/full/10.1080/02331934.2024.2444623), [arXiv:2310.17077](https://arxiv.org/abs/2310.17077)
+
 
 Preprints
 ======
