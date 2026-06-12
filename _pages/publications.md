@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+Journal Articles
+======
+
+
 Preprints
 ======
 * Finite Convergence of Circumcentered-Reflection Method on Closed Polyhedral Cones in Euclidean Spaces
