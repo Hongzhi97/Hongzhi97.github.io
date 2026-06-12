@@ -18,7 +18,7 @@ Education
 
 Working Experience
 ======
-* Casual Academic, May 2022-present
+* Casual Academic, Jun 2022-present
   * School of Mathematics and Statistics, UNSW Sydney
  
 Teaching
