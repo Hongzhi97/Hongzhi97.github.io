@@ -38,7 +38,7 @@ Talks
 * Semismooth Newton Method and its Applications in Optimization
   * ANU Student Research Conference, 16 Sep 2020, Canberra, Australia
 
-Academic projects
+Academic Projects
 ======
 * UNSW Science Postgraduate Research Showcase 2023, Speaker, June 2023
   * This activity invites HDR students to give a compelling presentation about their research project and demonstrate why it is important with a single static PowerPoint slide in just one minute
