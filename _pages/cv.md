@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy in Mathematics and Statistics, UNSW Sydney, Mar 2026
+* Doctor of Philosophy in Mathematics and Statistics, UNSW, Mar 2026
 * Bachelor of Mathematical Sciences with First Class Honours, ANU, Jun 2020
 * Bachelor of Mathematical Sciences, ANU, Jun 2019
 * Bachelor of Mathematics and Applied Mathematics, Beijing University of Technology (BJUT), Jun 2019
@@ -19,7 +19,7 @@ Education
 Working Experience
 ======
 * Casual Academic, Jun 2022-present
-  * School of Mathematics and Statistics, UNSW Sydney
+  * School of Mathematics and Statistics, UNSW
  
 Teaching
 ======
@@ -41,8 +41,9 @@ Community service, Mentoring and Leadership
 
 Honours and Awards
 ======
-* 2024 HDR Development and Research Training Grant (DRTG), UNSW, Apr 2024
+* UNSW HDR Development and Research Training Grant (DRTG), UNSW, Apr 2024
 * International House UNSW Research Collegian Prize, UNSW, Feb 2024
+* UNSW School of Mathematics & Statistics Postgraduate Research Support Scheme (PRSS), UNSW, Dec 2022
 * Dean’s International Science Excellence Scholarship, ANU, May 2017
 * Learning Excellence Award, university-level, BJUT, Dec 2017
 * Learning Excellence Award, university-level, BJUT, Dec 2016
