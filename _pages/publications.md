@@ -23,6 +23,9 @@ Preprints
 
 Talks
 ======
+* Facial Structure on the SONC cone
+  * [The 12th annual UNSW Mathematics and Statistics Postgraduate Conference](https://www.unsw.edu.au/science/our-schools/maths/news-events/events/postgraduate-conference-2025), 11 Aug 2025, Sydney, Australia
+
 * Finite Convergence of Circumcentered-Reflection Method on Closed Polyhedral Cones in Euclidean Spaces
   * [WOMBAT 2024](https://wombat.mocao.org/), 4 Dec 2024, Sydney, Australia
 
