@@ -28,6 +28,9 @@ Talks
 
 * Finite Convergence of Circumcentered-Reflection Method on Closed Polyhedral Cones in Euclidean Spaces
   * [WOMBAT 2024](https://wombat.mocao.org/), 4 Dec 2024, Sydney, Australia
+ 
+* Finite Convergence of Circumcentered-Reflection Method on Closed Polyhedral Cones in Euclidean Spaces
+  * [The 11th annual UNSW Mathematics and Statistics Postgraduate Conference](https://www.unsw.edu.au/science/our-schools/maths/news-events/events/postgraduate-conference-2024), 8 Aug 2024, Sydney, Australia
 
 * Douglas-Rachford is the best projection method
   * [ISMP 2024](https://ismp2024.gerad.ca/schedule/WB/906), 24 Jul 2024, Montreal, Canada
@@ -35,10 +38,10 @@ Talks
 * Douglas-Rachford is the best projection method
   * [WOMBAT/WICO 2023](https://wombat.mocao.org/), 14 Dec 2023, Sydney, Australia
 
-* Douglas-Rachford is the best projection method
-  * [2023 UNSW MathStats Postgraduate Conference](https://unswmathstatspgconf2023.github.io/), 11 Aug 2023, Sydney, Australia
+* Douglas-Rachford method is the best!
+  * [The 10th annual UNSW Mathematics and Statistics Postgraduate Conference](https://www.unsw.edu.au/science/our-schools/maths/news-events/events/postgraduate-conference-2023), 11 Aug 2023, Sydney, Australia
 
-* Semismooth Newton Method and its Applications in Optimization
+* Semismooth Newton Method and Its Applications in Optimization
   * ANU Student Research Conference, 16 Sep 2020, Canberra, Australia
 
 Academic Projects
