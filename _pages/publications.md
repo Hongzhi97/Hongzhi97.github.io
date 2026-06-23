@@ -23,6 +23,9 @@ Preprints
 
 Talks
 ======
+* Exposed Extreme Rays of the SONC Cone
+  * [Optimisation Days](https://www.unsw.edu.au/science/our-schools/maths/our-research/optimisation/opt_days), 11 Nov 2025, Sydney, Australia
+
 * Facial Structure on the SONC cone
   * [The 12th annual UNSW Mathematics and Statistics Postgraduate Conference](https://www.unsw.edu.au/science/our-schools/maths/news-events/events/postgraduate-conference-2025), 11 Aug 2025, Sydney, Australia
 
