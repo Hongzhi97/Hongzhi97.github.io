@@ -53,4 +53,4 @@ Academic Projects
   * This activity invites HDR students to give a compelling presentation about their research project and demonstrate why it is important with a single static PowerPoint slide in just one minute
 
 * Mathematical Support, Institute of Electrical Engineering, Chinese Academy of Sciences, Jan 2020
-  * Joined Researcher Aiwu Peng’s ocean wave power generation research project team, aimed to assist the team in founding the numerical solutions of required PDEs with MATLAB 
+  * Joined researcher Aiwu Peng’s ocean wave power generation research project team, aimed to assist the team in founding the numerical solutions of required PDEs with MATLAB 
