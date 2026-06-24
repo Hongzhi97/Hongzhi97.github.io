@@ -54,5 +54,7 @@ Academic Projects
 ======
 * [MATRIX research Program for Splitting Algorithm – Advances, Challenges, and Opportunities](https://www.matrix-inst.org.au/events/splitting-algorithms-advances-challenges-and-opportunities/), Feb 2025, Creswick, Australia
 
+* [MATRIX research program for Convexity, Geometry and Computation](https://www.matrix-inst.org.au/events/convexity-geometry-and-computation/), Nov-Dec 2022, Creswick, Australia
+
 * Mathematical Support, Institute of Electrical Engineering, Chinese Academy of Sciences, Jan 2020
   * Joined researcher Aiwu Peng’s ocean wave power generation research project team, aimed to assist the team in finding the numerical solutions of required PDEs with MATLAB 
