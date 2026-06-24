@@ -56,5 +56,5 @@ Academic Projects
 
 * [MATRIX Research Program for Convexity, Geometry and Computation](https://www.matrix-inst.org.au/events/convexity-geometry-and-computation/), Nov-Dec 2022, Creswick, Australia
 
-* Mathematical Support, Institute of Electrical Engineering, Chinese Academy of Sciences, Jan 2020
-  * Joined researcher Aiwu Peng’s ocean wave power generation research project team, aimed to assist the team in finding the numerical solutions of required PDEs with MATLAB 
+* Mathematical Support, Institute of Electrical Engineering, Chinese Academy of Sciences, Jan 2020, Beijing, China
+  * Joined researcher Aiwu Peng’s ocean wave power generation research project team, assisted the team in finding the numerical solutions of required PDEs with MATLAB 
