@@ -43,14 +43,14 @@ Talks
 
 * Douglas-Rachford method is the best!
   * [The 10th annual UNSW Mathematics and Statistics Postgraduate Conference](https://www.unsw.edu.au/science/our-schools/maths/news-events/events/postgraduate-conference-2023), 11 Aug 2023, Sydney, Australia
+ 
+* One-minute science research showcase
+  * UNSW Science Postgraduate Research Showcase 2023, 20 Jun 2023, Sydney, Australia
 
 * Semismooth Newton Method and Its Applications in Optimization
   * ANU Student Research Conference, 16 Sep 2020, Canberra, Australia
 
 Academic Projects
 ======
-* UNSW Science Postgraduate Research Showcase 2023, Speaker, June 2023
-  * This activity invites HDR students to give a compelling presentation about their research project and demonstrate why it is important with a single static slide in just one minute
-
 * Mathematical Support, Institute of Electrical Engineering, Chinese Academy of Sciences, Jan 2020
   * Joined researcher Aiwu Peng’s ocean wave power generation research project team, aimed to assist the team in finding the numerical solutions of required PDEs with MATLAB 
