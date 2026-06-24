@@ -52,7 +52,7 @@ Talks
 
 Academic Projects
 ======
-* [MATRIX research Program for Splitting Algorithm – Advances, Challenges, and Opportunities](https://www.matrix-inst.org.au/events/splitting-algorithms-advances-challenges-and-opportunities/), Feb 2025, Creswick, Australia
+* [MATRIX research program for Splitting Algorithm – Advances, Challenges, and Opportunities](https://www.matrix-inst.org.au/events/splitting-algorithms-advances-challenges-and-opportunities/), Feb 2025, Creswick, Australia
 
 * [MATRIX research program for Convexity, Geometry and Computation](https://www.matrix-inst.org.au/events/convexity-geometry-and-computation/), Nov-Dec 2022, Creswick, Australia
 
