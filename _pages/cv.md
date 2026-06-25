@@ -36,9 +36,6 @@ Community service, Mentoring and Leadership
 * Reading Group Coordinator, Jul 2022 - Oct 2022
   * Organized a [reading group](https://www.mocao.org/cg/) about convex geometry
 
-* Volunteer Teacher at Dawuji Experimental Culture and Wushu School (primary school), Beijing, Oct 2015 - Jan 2016
-  * Worked as a volunteer teacher once a week in this primary school for children of migrant workers in the first semester of BJUT
-
 Honours and Awards
 ======
 * UNSW HDR Development and Research Training Grant (DRTG), UNSW Sydney, Apr 2024
