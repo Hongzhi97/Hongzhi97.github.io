@@ -41,9 +41,9 @@ Community service, Mentoring and Leadership
 
 Honours and Awards
 ======
-* UNSW HDR Development and Research Training Grant (DRTG), UNSW, Apr 2024
-* International House UNSW Research Collegian Prize, UNSW, Feb 2024
-* UNSW School of Mathematics & Statistics Postgraduate Research Support Scheme (PRSS), UNSW, Dec 2022
+* UNSW HDR Development and Research Training Grant (DRTG), UNSW Sydney, Apr 2024
+* International House UNSW Research Collegian Prize, UNSW Sydney, Feb 2024
+* UNSW School of Mathematics & Statistics Postgraduate Research Support Scheme (PRSS), UNSW Sydney, Dec 2022
 * Dean’s International Science Excellence Scholarship, ANU, May 2017
 * Learning Excellence Award, university-level, BJUT, Dec 2017
 * Learning Excellence Award, university-level, BJUT, Dec 2016
