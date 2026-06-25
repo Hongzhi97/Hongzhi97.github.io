@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy in Mathematics and Statistics, UNSW Sydney, Mar 2026
-* Bachelor of Mathematical Sciences with First Class Honours, ANU, Jun 2020
-* Bachelor of Mathematical Sciences, ANU, Jun 2019
-* Bachelor of Mathematics and Applied Mathematics, Beijing University of Technology (BJUT), Jun 2019
+* Doctor of Philosophy in Mathematics and Statistics, UNSW Sydney, Mar 2026, Sydney, Australia
+* Bachelor of Mathematical Sciences with First Class Honours, ANU, Jun 2020, Canberra, Australia
+* Bachelor of Mathematical Sciences, ANU, Jun 2019, Canberra, Australia
+* Bachelor of Mathematics and Applied Mathematics, Beijing University of Technology (BJUT), Jun 2019, Beijing, China
 
 Working Experience
 ======
