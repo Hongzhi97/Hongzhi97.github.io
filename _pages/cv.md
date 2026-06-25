@@ -42,5 +42,5 @@ Honours and Awards
 * International House UNSW Research Collegian Prize, UNSW Sydney, Feb 2024
 * UNSW School of Mathematics & Statistics Postgraduate Research Support Scheme (PRSS), UNSW Sydney, Dec 2022
 * Dean’s International Science Excellence Scholarship, ANU, May 2017
-* Learning Excellence Award, university-level, BJUT, Dec 2017
-* Learning Excellence Award, university-level, BJUT, Dec 2016
+* University-Level Learning Excellence Award, BJUT, Dec 2017
+* University-Level Learning Excellence Award, BJUT, Dec 2016
