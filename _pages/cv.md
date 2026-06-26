@@ -18,12 +18,13 @@ Education
 
 Working Experience
 ======
-* Casual Academic, UNSW Sydney, Jun 2022 - Current, Sydney, Australia
+* Casual Academic, School of Mathematics and Statistics, UNSW Sydney, Jun 2022 - Current, Sydney, Australia
   * Conducted tutorials, invigilation, assignment and exam marking for undergraduate students
  
 Teaching
 ======
-* Demonstrator of course [MATH3191/5191](https://www.unsw.edu.au/science/our-schools/maths/student-life-resources/undergraduate/undergraduate-courses/math3191-mathematical-optimisation-for-data-science#heading-991840310): Mathematical Optimization for Data Science at UNSW, Sep 2022 - Dec 2022
+* Course Demonstrator, School of Mathematics and Statistics, UNSW Sydney, Sep 2022 - Dec 2022
+  * [MATH3191/5191](https://www.unsw.edu.au/science/our-schools/maths/student-life-resources/undergraduate/undergraduate-courses/math3191-mathematical-optimisation-for-data-science#heading-991840310): Mathematical Optimization for Data Science
   
 Leadership and Community Engagement
 ======
@@ -41,6 +42,7 @@ Leadership and Community Engagement
 
 Honours and Awards
 ======
+* UNSW UIPA PhD Scholarship - tuition fee and living allowance, UNSW Sydney, May 2022 - Dec 2025
 * UNSW HDR Development and Research Training Grant (DRTG), UNSW Sydney, Apr 2024
 * International House UNSW Research Collegian Prize, UNSW Sydney, Feb 2024
 * UNSW School of Mathematics & Statistics Postgraduate Research Support Scheme (PRSS), UNSW Sydney, Dec 2022
