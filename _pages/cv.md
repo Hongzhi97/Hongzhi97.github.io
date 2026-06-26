@@ -25,7 +25,7 @@ Teaching
 ======
 * Demonstrator of course [MATH3191/5191](https://www.unsw.edu.au/science/our-schools/maths/student-life-resources/undergraduate/undergraduate-courses/math3191-mathematical-optimisation-for-data-science#heading-991840310): Mathematical Optimization for Data Science at UNSW, Sep 2022 - Dec 2022
   
-Community service, Mentoring and Leadership
+Leadership and Community Engagement
 ======
 * UNSW International House Culture Director, Jan 2025 - Current, Sydney, Australia
   * Promoted a diverse and inclusive culture, organized culture-related events at the House
