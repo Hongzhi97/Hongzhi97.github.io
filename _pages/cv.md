@@ -27,13 +27,15 @@ Teaching
   
 Community service, Mentoring and Leadership
 ======
-* Postgraduate Conference Organizing Committee Member, Aug 2023
-  * Helped to organize the 10th annual UNSW Mathematics and Statistics Postgraduate Conference, including setting the schedule, giving the prologue of the conference, chairing the talks and making voting links for the People's Choice award for best talk and poster
+* UNSW International House Culture Director, Jan 2025 -- Current, 
 
-* UNSW HDR Peer Support Program Mentor, Jul 2023 - Sep 2023
-  * Provide connection, support, advice, answer questions and share tips on how to settle into an HDR candidature for a group of new HDR students (11 people), normally meet once a week with the mentees
+* Postgraduate Conference Organizing Committee Member, Aug 2023, Sydney, Australia
+  * Helped to organize the 10th annual UNSW Mathematics and Statistics Postgraduate Conference, including setting the schedule, giving the prologue of the conference, chairing the talks, and making voting links for the People's Choice award for best talk and poster
 
-* Reading Group Coordinator, Jul 2022 - Oct 2022
+* UNSW HDR Peer Support Program Mentor, Jul 2023 - Sep 2023, Sydney, Australia
+  * Provided connection, support, advice, answered questions, and shared tips on how to settle into an HDR candidature for a group of new HDR students (11 people), who normally meet once a week with the mentees
+
+* Reading Group Coordinator, Jul 2022 - Oct 2022, Online
   * Organized a [reading group](https://www.mocao.org/cg/) about convex geometry
 
 Honours and Awards
