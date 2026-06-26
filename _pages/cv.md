@@ -27,7 +27,8 @@ Teaching
   
 Community service, Mentoring and Leadership
 ======
-* UNSW International House Culture Director, Jan 2025 -- Current, 
+* UNSW International House Culture Director, Jan 2025 - Current, Sydney, Australia
+  * Promoted a diverse and inclusive culture, organized culture-related events at the House
 
 * Postgraduate Conference Organizing Committee Member, Aug 2023, Sydney, Australia
   * Helped to organize the 10th annual UNSW Mathematics and Statistics Postgraduate Conference, including setting the schedule, giving the prologue of the conference, chairing the talks, and making voting links for the People's Choice award for best talk and poster
