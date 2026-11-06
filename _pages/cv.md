@@ -28,7 +28,7 @@ Teaching
   
 Leadership and Community Engagement
 ======
-* UNSW International House Culture Director, Jan 2025 - Current, Sydney, Australia
+* UNSW International House Culture Director, Jan 2025 - Dec 2026, Sydney, Australia
   * Promoted a diverse and inclusive culture, organized culture-related events at the House
 
 * Postgraduate Conference Organizing Committee Member, Aug 2023, Sydney, Australia
@@ -42,6 +42,7 @@ Leadership and Community Engagement
 
 Honours and Awards
 ======
+* Australian Mathematical Society Lift-off Fellowship, AustMS, Oct 2026
 * UNSW UIPA PhD Scholarship - tuition fee and living allowance, UNSW Sydney, May 2022 - Dec 2025
 * UNSW HDR Development and Research Training Grant (DRTG), UNSW Sydney, Apr 2024
 * International House UNSW Research Collegian Prize, UNSW Sydney, Feb 2024
